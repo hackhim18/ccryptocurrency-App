@@ -1,26 +1,33 @@
-import React from 'react'
-import { Switch,Route,Link } from 'react-router-dom'
-import { Layout, Typography, Space } from 'antd'
+import React from 'react';
+import { Switch, Route, Link } from 'react-router-dom';
+import { Layout, Typography, Space } from 'antd';
 
-import { Navbar }from './components';
-
+import { Navbar } from './components';
+import './App.css';
 
 const App = () => {
     return (
         <div className="app">
-            <div className="navbar">
-             <Navbar />
+            < div className="navbar">
+                <Navbar />
             </div>
-            <div className="main">
+         <div className="main">
+             <Layout>
+                 <div className="routes">
+                     <Switch>
 
-            </div>
-            <div className="footer">
-
-            </div>
+                     </Switch>
+                 </div>
+             </Layout>
+             
+             </div>   
+        <div className="footer">
             
+            </div>   
+
+
         </div>
     )
 }
 
 export default App
- 
