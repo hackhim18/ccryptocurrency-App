@@ -101,4 +101,4 @@ const CryptoDetails = () => {
   );
 };
 
-export default CryptoDetails;  
+export default CryptoDetails;
