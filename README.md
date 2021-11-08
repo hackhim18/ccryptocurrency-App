@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Crypto World - Explore the World of Cryptocurrency
 
  
 ## Available Scripts
