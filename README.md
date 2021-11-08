@@ -1,7 +1,6 @@
 # Crypto World - Explore the World of Cryptocurrency
 
  
-## Available Scripts
 ### [Live Site](https://festive-goodall-914aae.netlify.app/)
 
 ## Introduction
