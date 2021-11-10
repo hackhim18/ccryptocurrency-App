@@ -6,7 +6,8 @@
 ## Introduction
 This is a code repository for the project. 
 
-This is react application here,I have build a Conversational Voice Controlled React News Application using Alan AI. Alan AI is a speech recognition software that allows you to add voice capabilities to your applications.I have used news api to fetch the news. 
+This is react application here,It uses  CoinRanking API that fetches different Cryptocurrency and their details.
+And Bing News Search API that fetches the different news related to different cryptocurrency.
 
 
 Setup:
